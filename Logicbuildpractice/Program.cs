@@ -11,6 +11,7 @@ class Program
         //DoWhile3.sum();
         //  DoWhile4.largestNum();
         //DoWhile5.count();
-        DoWhile6.reverse();
+        //DoWhile6.reverse();
+        //DoWhile7.palindrome();
     }
 }
