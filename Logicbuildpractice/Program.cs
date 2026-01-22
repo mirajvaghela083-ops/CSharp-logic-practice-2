@@ -8,6 +8,6 @@ class Program
     {
         //DoWhile1.printNum();
         //DoWhile2.multi();
-        DoWhile3.sum();
+        //DoWhile3.sum();
     }
 }
