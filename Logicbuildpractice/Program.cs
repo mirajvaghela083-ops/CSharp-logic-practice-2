@@ -13,5 +13,6 @@ class Program
         //DoWhile5.count();
         //DoWhile6.reverse();
         //DoWhile7.palindrome();
+        DoWhile8.armstrong();
     }
 }
