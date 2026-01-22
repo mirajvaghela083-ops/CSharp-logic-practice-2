@@ -10,6 +10,7 @@ class Program
         //DoWhile2.multi();
         //DoWhile3.sum();
         //  DoWhile4.largestNum();
-        DoWhile5.count();
+        //DoWhile5.count();
+        DoWhile6.reverse();
     }
 }
