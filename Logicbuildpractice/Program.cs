@@ -13,6 +13,12 @@ class Program
         //DoWhile5.count();
         //DoWhile6.reverse();
         //DoWhile7.palindrome();
-        DoWhile8.armstrong();
+        //DoWhile8.armstrong();
+        //DoWhile9.fact();
+        //DoWhile10.fibonacci();
+        //DoWhile11.hcf();
+       
+       
+
     }
 }
