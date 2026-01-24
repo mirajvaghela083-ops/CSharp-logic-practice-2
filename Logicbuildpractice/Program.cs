@@ -19,7 +19,8 @@ class Program
         //DoWhile11.hcf();
         //DoWhile13.sumOfNumber();
         //DoWhile14.evenOdd();
-        DoWhile15.countPositive();
+        //DoWhile15.countPositive();
+        NestedLoopLogic.multiplicationTable();
         
 
 
