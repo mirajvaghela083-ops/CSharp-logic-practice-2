@@ -1,6 +1,6 @@
 ﻿namespace Logicbuildpractice
 {
-    internal static class DoWhile12Helpers
+    internal static class DoWhile12
     {
 
         internal static void Menu()
