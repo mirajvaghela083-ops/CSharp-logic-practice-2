@@ -17,8 +17,9 @@ class Program
         //DoWhile9.fact();
         //DoWhile10.fibonacci();
         //DoWhile11.hcf();
-       
-       
+        DoWhile13.sumOfNumber();
+
+
 
     }
 }
